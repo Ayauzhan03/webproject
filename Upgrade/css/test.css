@@ -1,0 +1,80 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+#text {
+  display: block;
+  height: 100px;
+  width: 456px;
+}
+h1 {
+  margin-left: 590px;
+  margin-top: 30px;
+}
+
+table {
+  margin-left: 260px;
+  margin-top:10px ;
+}
+#table th {
+  text-align: center;
+  font-weight: bold;
+}
+
+#table td {
+  width: 250px;
+  white-space: nowrap;
+  text-align: center;
+  vertical-align: bottom;
+  padding-top: 30px;
+  padding-bottom: 12px;
+  cursor: pointer;
+  }
+
+#table .nw {
+  background:#B9EAF0;
+  color: black;
+}
+
+#table .n {
+   background:#F0D1E0;
+  color: black;
+}
+
+#table .ne {
+   background:#B9EAF0;
+  color: black;
+}
+
+#table .w {
+ background:#F0D1E0;
+  color: black;
+}
+
+#table .c {
+ background:#B9EAF0;
+  color: black;
+}
+
+#table .e {
+  background:#F0D1E0;
+  color: black;
+}
+
+#table .sw {
+  background:#B9EAF0;
+  color: black;
+}
+
+#table .s {
+  background: #F0D1E0;
+  color: black;
+}
+
+#table .se {
+  background:#B9EAF0;
+  color: black;
+}
+
+#table .highlight {
+  background: red;
+}

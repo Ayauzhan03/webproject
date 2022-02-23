@@ -9,3 +9,6 @@ margin-left: 540px;
  table {
     margin-left: 300px;
  }
+ tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
