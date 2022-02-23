@@ -1,0 +1,92 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+  
+}
+section {
+    padding-top: 10px
+}.
+skidka {
+    display: block;
+}
+strong {
+    font-size: 50px;
+    margin-left: 500px;
+
+}
+h2 {
+   font-size: 40px;
+   margin-bottom: 68px;
+   margin-left:350px;
+   margin-top: 85px;
+}
+h3 {
+      font-size: 40px;
+   margin-bottom: 68px;
+   margin-left:350px;
+   margin-top: 85px;
+}
+.s {
+  background: #0d6efd;
+    box-shadow: 0px 0px 10px 4px rgb(255 255 255 / 80%);
+    border-radius: 34px;
+    width: 300px;
+    text-align: center;
+    height: 100px;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 100px;
+    color: white;
+    display: table;
+    position: fixed;
+    left: 5%;
+    top: 24%;
+}
+.su {
+background: #0d6efd;
+    box-shadow: 0px 0px 10px 4px rgb(255 255 255 / 80%);
+    border-radius: 34px;
+    width: 300px;
+    text-align: center;
+    height: 100px;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 100px;
+    color: white;
+    display: table;
+    position: fixed;
+    left: 5%;
+    top: 42%;
+
+}
+.sub {
+background: #0d6efd;
+    box-shadow: 0px 0px 10px 4px rgb(255 255 255 / 80%);
+    border-radius: 34px;
+    width: 300px;
+    text-align: center;
+    height: 100px;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 100px;
+    color: white;
+    display: table;
+    position: fixed;
+    left: 5%;
+    top: 60%;
+}
+.subje {
+background: #0d6efd;
+    box-shadow: 0px 0px 10px 4px rgb(255 255 255 / 80%);
+    border-radius: 34px;
+    width: 300px;
+    text-align: center;
+    height: 100px;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 100px;
+    color: white;
+    display: table;
+    position: fixed;
+    left: 5%;
+    top: 78%;
+}

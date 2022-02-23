@@ -1,0 +1,33 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+
+}
+.map {
+   width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 30px;
+    margin-top: 30px;
+background: url(img1.jpg);
+border-radius: 30px;  
+}
+.contact h4 {
+width: 600px;
+height: 2px;
+margin-left: 800px;
+margin-top: 40px;
+font-size: 30px;
+line-height: 60px;
+}
+
+ .contact p{
+    margin-left: 770px;
+    width: 500px;
+     margin-top: 75px;
+     font-size: 25px;
+ }
+ .social {
+   margin-top: 20px;
+   margin-left: 770px;
+ }
+   

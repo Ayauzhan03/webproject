@@ -1,0 +1,34 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+.photo1 {
+margin-left: 145px;
+margin-top: 10px;
+}
+.photo2 {
+margin-left: 510px;
+margin-top: -234px;
+}
+.photo3 {
+margin-left: 900px;
+margin-top: -234px;
+}
+.photo4 {
+margin-left: 330px;
+margin-top: 3px;
+}
+.photo5 {
+margin-left: 740px;
+margin-top: -226px;
+}
+.c1 {
+   margin-left: 170px;
+   margin-top: 3px; 
+}
+.c2 {
+   margin-left: 50px; 
+   margin-top: 3px;
+}
+.container {
+    margin-left: 150px;
+}
